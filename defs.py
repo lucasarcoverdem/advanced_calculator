@@ -55,5 +55,5 @@ def pitagorean_theorem(a, b):
 
 # other functions
 
-def cls():
+def clear_screen():
     os.system("cls")
